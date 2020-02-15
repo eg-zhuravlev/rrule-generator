@@ -1,0 +1,19 @@
+{
+  "name": "rrule-generator",
+  "version": "0.0.1",
+  "description": "Library for working with recurrence rules for calendar dates.",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "author": "https://github.com/eg-zhuravlev",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^3.7.3",
+    "webpack": "^4.41.2"
+  },
+  "devDependencies": {
+    "ts-loader": "^6.2.1",
+    "webpack-cli": "^3.3.10"
+  }
+}
